@@ -1,11 +1,7 @@
 #!/usr/bin/python3
-"""Square Class
-
-
-This class represents a basic square. It doesn't have any methods ot attributes at the moment.
-"""
+"""This module creates an empty class named Square"""
 
 
 class Square:
+    """An empty class"""
     pass
-
